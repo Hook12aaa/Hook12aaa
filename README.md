@@ -37,7 +37,7 @@
 
 ---
 
-###  Kaggle Competitions..
+### 🏆 Kaggle Competitions..
 
 | Repo | Competition | Approach |
 |------|------------|----------|
