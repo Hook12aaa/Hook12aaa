@@ -16,11 +16,11 @@
 
 ### What I'm working on :)
 
-**[CamEvents.org](https://camevents.org)** — Aggregates 25 sources of startup, innovation and research events across Cambridge into one filterable page. Zero cost, zero accounts reached 1000+ Users.
+**[CamEvents.org](https://camevents.org)** - Aggregates 25 sources of startup, innovation and research events across Cambridge into one filterable page. Zero cost, zero accounts reached 1000+ Users.
 
-**[CozyGrids.com](https://cozygrids.com)** — Converts images into printable craft patterns (cross-stitch, knitting, diamond painting, crochet, embroidery) with a full editor and PDF/machine export. CIELAB colour science. Just launching...
+**[CozyGrids.com](https://cozygrids.com)** - Converts images into printable craft patterns (cross-stitch, knitting, diamond painting, crochet, embroidery) with a full editor and PDF/machine export. CIELAB colour science. Just launching...
 
-**[PuzzleDojo](https://puzzle.chepaldin.com)** — Solves all 7 LinkedIn daily puzzles from a screenshot. Browser-side computer vision (OpenCV WASM), constraint propagation, Algorithm X, and BGE embeddings. 500+ tests.
+**[PuzzleDojo](https://puzzle.chepaldin.com)** - Solves all 7 LinkedIn daily puzzles from a screenshot. Browser-side computer vision (OpenCV WASM), constraint propagation, Algorithm X, and BGE embeddings. 500+ tests.
 
 ---
 
@@ -28,9 +28,9 @@
 
 | Repo | What it does |
 |------|-------------|
-| [puzzle-solvers](https://github.com/Hook12aaa/puzzle-solvers) | Solver, generator and web app for 7 LinkedIn puzzles — vision pipeline, constraint engines, DFS search |
-| [json_parser](https://github.com/Hook12aaa/json_parser) | JSON repair for malformed LLM output — parallel processing, LRU caching |
-| [personal](https://github.com/Hook12aaa/personal) | Portfolio site — custom React, particle animations, audience personalisation |
+| [puzzle-solvers](https://github.com/Hook12aaa/puzzle-solvers) | Solver, generator and web app for 7 LinkedIn puzzles - vision pipeline, constraint engines, DFS search |
+| [json_parser](https://github.com/Hook12aaa/json_parser) | JSON repair for malformed LLM output - parallel processing, LRU caching |
+| [personal](https://github.com/Hook12aaa/personal) | Portfolio site - custom React, particle animations, audience personalisation |
 | [-market-trading-dashboard](https://github.com/Hook12aaa/-market-trading-dashboard) | Real-time forex monitoring with RSI, moving averages, position sizing |
 
 ### 🏆 Kaggle
@@ -51,11 +51,14 @@
   </a>
 </p>
 
-**Python** — PyTorch, JAX, FastAPI, spaCy, scikit-learn, XGBoost, LightGBM, CatBoost, Sharp, MongoDB
-
-**JavaScript/TypeScript** — React, Next.js, Vite, Three.js, D3.js, Capacitor. Big fan of VITE!
-
-**AI/ML** — LLM orchestration, knowledge graphs, embeddings (BGE, MPNet), TF-IDF classification, Ollama
+| | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, SQL |
+| **AI / ML** | PyTorch, JAX, scikit-learn, XGBoost, LightGBM, CatBoost, spaCy, Ollama |
+| **Web** | React, Next.js, Vite, Three.js, D3.js, Capacitor. Big fan of VITE! |
+| **Backend** | FastAPI, MongoDB, Neo4j, HDF5 |
+| **Infra** | Docker, Vercel |
+| **Techniques** | LLM orchestration, knowledge graphs, embeddings (BGE, MPNet), TF-IDF, computer vision |
 
 ---
 
@@ -74,7 +77,7 @@
 
 ### 🏢 Previously
 
-**AstraZeneca** — joined at 18 on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees — won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from ~20 to 3,000+ members across 9 countries.
+**AstraZeneca** - joined at 18 on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees - won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from ~20 to 3,000+ members across 9 countries.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hook12aaa&color=6E78FF&style=flat-square&label=Profile+Views" />
