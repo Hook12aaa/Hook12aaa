@@ -35,12 +35,6 @@
 
 **AstraZeneca** - joined at 18 on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees - won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from ~20 to 3,000+ members across 9 countries.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hook12aaa&color=6E78FF&style=flat-square&label=Profile+Views" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E64298,100:6E78FF&height=120&section=footer"/>
-
 ---
 
 ###  Kaggle Competitions..
@@ -59,11 +53,6 @@
   <img src="https://streak-stats.demolab.com/?user=Hook12aaa&background=0d1117&border=6E78FF33&stroke=6E78FF33&ring=E64298&fire=E64298&currStreakNum=FFFFFF&sideNums=6E78FF&currStreakLabel=E64298&sideLabels=6E78FF&dates=c9d1d9&hide_border=true"/>
 </p>
 
----
-
-### 🏢 Previously
-
-**AstraZeneca** - joined at 18 on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees - won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from ~20 to 3,000+ members across 9 countries.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hook12aaa&color=6E78FF&style=flat-square&label=Profile+Views" />
