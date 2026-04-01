@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E78FF,100:E64298&height=180&section=header&text=Anton%20Chepaldin&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI,%20systems%20and%20human%20behaviour&descSize=16&descAlignY=55&descAlign=50"/>
+<p align="center">
+  <img width="100%" src="./header.svg" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
