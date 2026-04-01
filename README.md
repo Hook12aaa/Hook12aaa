@@ -12,6 +12,12 @@
   <a href="https://www.kaggle.com/chepaldin"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,react,nextjs,vite,threejs,d3,mongodb,docker,fastapi&theme=dark&perline=10" />
+  </a>
+</p>
+
 ---
 
 ### What I'm working on :)
@@ -24,15 +30,6 @@
 
 ---
 
-###  Selected repos
-
-| Repo | What it does |
-|------|-------------|
-| [puzzle-solvers](https://github.com/Hook12aaa/puzzle-solvers) | Solver, generator and web app for 7 LinkedIn puzzles - vision pipeline, constraint engines, DFS search |
-| [json_parser](https://github.com/Hook12aaa/json_parser) | JSON repair for malformed LLM output - parallel processing, LRU caching |
-| [personal](https://github.com/Hook12aaa/personal) | Portfolio site - custom React, particle animations, audience personalisation |
-| [-market-trading-dashboard](https://github.com/Hook12aaa/-market-trading-dashboard) | Real-time forex monitoring with RSI, moving averages, position sizing |
-
 ### 🏆 Kaggle
 
 | Repo | Competition | Approach |
@@ -44,12 +41,6 @@
 ---
 
 ### Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,react,nextjs,vite,threejs,d3,mongodb,docker,fastapi&theme=dark&perline=10" />
-  </a>
-</p>
 
 | | Technologies |
 |---|---|
