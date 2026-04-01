@@ -24,7 +24,7 @@
 
 ---
 
-### 🏆 Kaggle
+###  Kaggle Competitions..
 
 | Repo | Competition | Approach |
 |------|------------|----------|
@@ -71,7 +71,7 @@
 
 </p>
 
-<sub align="center">LLM orchestration - knowledge graphs - embeddings (BGE, MPNet) - TF-IDF - computer vision. Big fan of VITE!</sub>
+<sub align="center">I also LLM orchestration - knowledge graphs - embeddings (BGE, MPNet) - TF-IDF - computer vision. Big fan of VITE!</sub>
 
 ---
 
