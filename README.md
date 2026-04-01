@@ -26,7 +26,7 @@
 
 **[CozyGrids.com](https://cozygrids.com)** - Converts images into printable craft patterns (cross-stitch, knitting, diamond painting, crochet, embroidery) with a full editor and PDF/machine export. CIELAB colour science. Just launching...
 
-**[PuzzleDojo](https://puzzle.chepaldin.com)** - Solves all 7 LinkedIn daily puzzles from a screenshot. Browser-side computer vision (OpenCV WASM), constraint propagation, Algorithm X, and BGE embeddings. 500+ tests.
+**[PuzzleDojo](https://puzzle.chepaldin.com)** - Solves all 7 LinkedIn daily puzzles from a screenshot. Browser-side computer vision (OpenCV WASM), constraint propagation, Algorithm X, and BGE embeddings.
 
 
 ---
