@@ -35,11 +35,11 @@
 
 ### 🏆 Kaggle
 
-| Repo | Approach |
-|------|----------|
-| [Kaggle_NFL](https://github.com/Hook12aaa/Kaggle_NFL) | NFL competition entry |
-| [HF_kaggle](https://github.com/Hook12aaa/HF_kaggle) | XGBoost + CatBoost ensemble blending |
-| [titanic_LightGBM_Bayesian](https://github.com/Hook12aaa/titanic_LightGBM_Bayesian) | LightGBM with Bayesian optimisation |
+| Repo | Competition | Approach |
+|------|------------|----------|
+| [Kaggle_NFL](https://github.com/Hook12aaa/Kaggle_NFL) | Big Data Bowl 2026 | Encoder-Decoder LSTM with attention, frame-by-frame player displacement prediction |
+| [HF_kaggle](https://github.com/Hook12aaa/HF_kaggle) | Playground S6E2 - Heart Disease | XGBoost + CatBoost 50/50 blend, 7-seed averaging |
+| [titanic_LightGBM_Bayesian](https://github.com/Hook12aaa/titanic_LightGBM_Bayesian) | Titanic | Bayesian-tuned LightGBM, 50-iter scikit-optimize, 5-fold CV |
 
 ---
 
