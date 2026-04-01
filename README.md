@@ -22,7 +22,6 @@
 
 **[PuzzleDojo](https://puzzle.chepaldin.com)** - Solves all 7 LinkedIn daily puzzles from a screenshot. Browser-side computer vision (OpenCV WASM), constraint propagation, Algorithm X, and BGE embeddings. 500+ tests.
 
----
 
 ###  Kaggle Competitions..
 
@@ -71,16 +70,11 @@
 
 </p>
 
-<sub align="center">I also LLM orchestration - knowledge graphs - embeddings (BGE, MPNet) - TF-IDF - computer vision. Big fan of VITE!</sub>
+<sub align="center">....I also doLLM orchestration - knowledge graphs - embeddings (BGE, MPNet) - TF-IDF - computer vision. Big fan of VITE!</sub>
 
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="165"/>
-  <img src="./profile/top-langs.svg" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Hook12aaa&background=0d1117&border=6E78FF33&stroke=6E78FF33&ring=E64298&fire=E64298&currStreakNum=FFFFFF&sideNums=6E78FF&currStreakLabel=E64298&sideLabels=6E78FF&dates=c9d1d9&hide_border=true"/>
