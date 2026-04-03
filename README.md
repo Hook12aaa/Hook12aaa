@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E78FF,100:E64298&height=180&section=header&text=Anton%20Chepaldin&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI,%20systems%20and%20human%20behaviour&descSize=16&descAlignY=55&descAlign=50"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chepaldin.com/api/particles?theme=dark&position=top">
+  <source media="(prefers-color-scheme: light)" srcset="https://chepaldin.com/api/particles?theme=light&position=top">
+  <img alt="header" src="https://chepaldin.com/api/particles?theme=dark&position=top" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -58,4 +62,8 @@
   <img src="https://komarev.com/ghpvc/?username=Hook12aaa&color=6E78FF&style=flat-square&label=Profile+Views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E64298,100:6E78FF&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chepaldin.com/api/particles?theme=dark&position=bottom">
+  <source media="(prefers-color-scheme: light)" srcset="https://chepaldin.com/api/particles?theme=light&position=bottom">
+  <img alt="footer" src="https://chepaldin.com/api/particles?theme=dark&position=bottom" width="100%">
+</picture>
