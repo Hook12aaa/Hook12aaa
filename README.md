@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://chepaldin.com/api/particles?theme=dark&position=top&text=Anton%20Chepaldin&subtitle=AI%2C%20Systems%20and%20Behaviour&v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://chepaldin.com/api/particles?theme=light&position=top&text=Anton%20Chepaldin&subtitle=AI%2C%20Systems%20and%20Behaviour&v=4">
-  <img alt="header" src="https://chepaldin.com/api/particles?theme=dark&position=top&text=Anton%20Chepaldin&subtitle=AI%2C%20Systems%20and%20Behaviour&v=4" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://chepaldin.com/api/particles?theme=dark&position=top&text=Anton%20Chepaldin&subtitle=AI%2C%20Systems%20and%20Behaviour&v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://chepaldin.com/api/particles?theme=light&position=top&text=Anton%20Chepaldin&subtitle=AI%2C%20Systems%20and%20Behaviour&v=5">
+  <img alt="header" src="https://chepaldin.com/api/particles?theme=dark&position=top&text=Anton%20Chepaldin&subtitle=AI%2C%20Systems%20and%20Behaviour&v=5" width="100%">
 </picture>
 
 <p align="center">
