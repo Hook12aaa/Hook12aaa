@@ -32,12 +32,13 @@
 
 **[PuzzleDojo](https://puzzle.chepaldin.com)** - Solves all 7 LinkedIn daily puzzles from a screenshot. Browser-side computer vision (OpenCV WASM), constraint propagation, Algorithm X, and BGE embeddings.
 
+**[ModelTrainer](https://github.com/Hook12aaa/model-trainer)** - Claude Code plugin for autonomous supervised ML training (datacheck, hypothesis, parallel experiments in git worktrees, two-stage reviewe pipeline, X-Ray dashboard). Execute-Don't-Eyeball methodology. Just open-sourced...
 
 ---
 
 ### 🏢 Previously
 
-**AstraZeneca** - joined at 18 on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees - won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from ~20 to 3,000+ members across 9 countries.
+**AstraZeneca** - joined at 18 on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons inlcuding one with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees, it won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from to 3,000+ members across 9 countries.
 
 ---
 
