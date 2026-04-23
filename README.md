@@ -38,7 +38,7 @@
 
 ### 🏢 Previously
 
-**AstraZeneca** - joined at 18 on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons inlcuding one with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees, it won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from to 3,000+ members across 9 countries.
+**AstraZeneca** - joined on a degree apprenticeship. Built drones, IoT and computer vision PoCs. Consulted on AI workflows for global commercial teams. Lead multiple hackathons inlcuding one with Google, Microsoft, Nvidia & Intel. Core team on the Enterprise GenAI programme that trained 10,000+ employees, it won multiple awards such as Gold awards at [The Learning Awards 2025](https://thelearningawards.com/). Scaled the TH!NK neurodiversity ERG from ~20 members to 400+ across 9 countries with 3,000+ wider community .
 
 ---
 
