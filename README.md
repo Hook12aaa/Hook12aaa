@@ -28,7 +28,7 @@
 
 **[CamEvents.org](https://camevents.org)** - Aggregates 25 sources of startup, innovation and research events across Cambridge into one filterable page. Zero cost, zero accounts reached 1000+ Users.
 
-**[CozyGrids.com](https://cozygrids.com)** - Converts images into printable craft patterns (cross-stitch, knitting, diamond painting, crochet, embroidery) with a full editor and PDF/machine export. CIELAB colour science. Just launching...
+**[CozyGrids.com](https://cozygrids.com)** - Converts images into printable craft patterns (cross-stitch, knitting, diamond painting, crochet, embroidery) with a full editor and PDF/machine export. CIELAB colour science.
 
 **[PuzzleDojo](https://puzzle.chepaldin.com)** - Solves all 7 LinkedIn daily puzzles from a screenshot. Browser-side computer vision (OpenCV WASM), constraint propagation, Algorithm X, and BGE embeddings.
 
