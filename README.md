@@ -34,7 +34,7 @@
 
 **[ModelTrainer](https://github.com/Hook12aaa/model-trainer)** - Claude Code plugin for autonomous supervised ML training (datacheck, hypothesis, parallel experiments in git worktrees, two-stage reviewe pipeline, X-Ray dashboard). Execute-Don't-Eyeball methodology. 
 
-**[Runbug](https://github.com/Hook12aaa/runbug)** - Claude Code plugin that lets the agent drive frontend dev servers by accessibility role/name (not CSS selectors), replacing Playwright in the inner debug loop. ~80-line dev-mode shim, three channels (console-forward, AX-snapshot, command-channel). Composes with superpowers. Newly Open!! :)
+**[Runbug](https://github.com/Hook12aaa/runbug)** - Claude Code plugin that lets the agent drive frontend dev servers by accessibility role/name (not CSS selectors), replacing Playwright in the inner debug loop with three channels. A prexisting plugin i made now open sourced :)
 
 ---
 
