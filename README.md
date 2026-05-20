@@ -36,6 +36,8 @@
 
 **[Runbug](https://github.com/Hook12aaa/runbug)** - Claude Code plugin that lets the agent drive frontend dev servers by accessibility role/name (not CSS selectors), replacing Playwright in the inner debug loop with three channels. A prexisting plugin i made now open sourced :)
 
+**[qwen3-mlx](https://github.com/Hook12aaa/qwen3-mlx)** - C++23 inference engine for Qwen3-4B on Apple Silicon. 1.62× llama-cli throughput, OpenAI-compatible streaming server, no Python runtime. Built by failing five optimisation hypotheses and landing one (quantized tied lm_head bandwidth), think in bets!! :)
+
 ---
 
 ### 🏢 Previously
