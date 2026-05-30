@@ -36,7 +36,7 @@
 
 ---
 
-### Apple Silicon / MLX
+### Apple Silicon / MLX Model Optimsation Research 
 
 **[qwen3-mlx](https://github.com/Hook12aaa/qwen3-mlx)** - C++23 inference engine for Qwen3-4B on Apple Silicon. 125 tok/s, 1.62× llama-cli throughput, OpenAI-compatible streaming server, no Python runtime. Built by failing five optimisation hypotheses and landing one (quantized tied lm_head bandwidth).
 
