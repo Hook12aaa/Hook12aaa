@@ -26,7 +26,10 @@
 
 ### Claude Code Plugins
 
+
 **[model-trainer](https://github.com/Hook12aaa/model-trainer)** - Autonomous supervised ML training for Claude Code. Hypothesis-driven: parallel experiments in git worktrees, two-stage review pipeline, X-Ray dashboard. Execute-Don't-Eyeball methodology.
+
+**[auto-model-trainer](https://github.com/Hook12aaa/auto-model-trainer)** - Long-horizon autonomous ML training for Claude Code. One command, full autonomy, mechanical convergence. Stop-hook-driven exploration across architecture families, Merkle-chained experiment lineage, subagent-dispatched variant building. Tested on 6 Kaggle competitions, House Prices inside medal zone.
 
 **[deep-report](https://github.com/Hook12aaa/deep-report)** - Turns a research question into a claim-verified, deep-dive PDF. Multi-agent pipeline with adversarial fact-checking — every load-bearing claim gets a verification sidecar.
 
