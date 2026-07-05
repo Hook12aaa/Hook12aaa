@@ -47,6 +47,9 @@
 
 **[decomposer-mlx](https://github.com/Hook12aaa/decomposer-mlx)** - Image layer decomposition using Qwen-Image-Layered. MLX 8-bit quantised, 2.3× faster than PyTorch MPS. Breaks images into composable layers for downstream editing.
 
+**[gemma-streaming](https://github.com/Hook12aaa/gemma-streaming)**  - Runs Gemma 3 4B on Apple Silicon inside a 2 GB memory budget by streaming layers from SSD mid-forward. Bit-exact against the dense model (max|Δlogit| = 0), 34 tok/s with a 1B speculative draft. Ships the full five-experiment research log with integrity-locked predictions.
+
+
 ---
 
 ### Web Apps
