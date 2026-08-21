@@ -31,6 +31,8 @@
 
 **[auto-model-trainer](https://github.com/Hook12aaa/auto-model-trainer)** - Long-horizon autonomous ML training for Claude Code. One command, full autonomy, mechanical convergence. Stop-hook-driven exploration across architecture families, Merkle-chained experiment lineage, subagent-dispatched variant building. Tested on 6 Kaggle competitions, House Prices inside medal zone.
 
+**[auto-discover](https://github.com/Hook12aaa/auto-discover.git)** - Evolutionary architecture discovery for Claude Code. Takes a hypothesis and reconstructs mathematical results from first principles forcing derivation over retrieval. Anti-retrieval methodology, search-level convergence, 15 Markdown-only skills. Two confirmed discoveries: 160-param convolution theorem architecture, guild-partitioned graph aggregator.
+
 **[deep-report](https://github.com/Hook12aaa/deep-report)** - Turns a research question into a claim-verified, deep-dive PDF. Multi-agent pipeline with adversarial fact-checking — every load-bearing claim gets a verification sidecar.
 
 **[runbug](https://github.com/Hook12aaa/runbug)** - Lets the agent drive frontend dev servers by accessibility role/name (not CSS selectors), replacing Playwright in the inner debug loop with three channels.
